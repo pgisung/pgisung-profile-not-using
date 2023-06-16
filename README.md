@@ -38,6 +38,8 @@
 </div>
 <br>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pgisung)](https://solved.ac/pgisung/)
+
 <!--
 ![Johnny's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=pgisung)
 -->
