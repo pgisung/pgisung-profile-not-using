@@ -31,14 +31,14 @@
 	<img src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white" />
 </div>
 <br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pgisung)](https://solved.ac/pgisung/)
+
 <br>
 <div display=inline-block>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgisung&layout=compact&theme=gruvbox_light">
 <img src="https://github-readme-stats.vercel.app/api?username=pgisung&show_icons=true&theme=gruvbox_light">
 </div>
-<br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pgisung)](https://solved.ac/pgisung/)
 
 <!--
 ![Johnny's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=pgisung)
