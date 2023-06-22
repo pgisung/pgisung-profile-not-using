@@ -8,7 +8,7 @@
   <h2>Development Platforms & Languages</h2>
   <h3>- I used to deal with (Competent)</h3>
 	<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" />
-	<img src="https://img.shields.io/badge/-239120?style=flat&logo=csharp&logoColor=white" />
+	<img src="https://img.shields.io/badge/Csharp-239120?style=flat&logo=csharp&logoColor=white" />
 	<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
 	<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
   <h3>- I have ever used (Novice)</h3>
