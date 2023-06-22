@@ -6,13 +6,14 @@
 
 <div align="left">
   <h2>Development Platforms & Languages</h2>
-  <h3>- I used to deal with</h3>
+  <h3>- I used to deal with (Competent)</h3>
 	<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" />
 	<img src="https://img.shields.io/badge/-239120?style=flat&logo=csharp&logoColor=white" />
 	<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
 	<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
-  <h3>- I have ever used (Learning)</h3>
+  <h3>- I have ever used (Novice)</h3>
 	<img src="https://img.shields.io/badge/CLanguage-A8B9CC?style=flat&logo=c&logoColor=white" />
+	<img src="https://img.shields.io/badge/C++-#00599C?style=flat&logo=cplusplus&logoColor=white" />
 	<img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=openjdk&logoColor=white" />
 	<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
