@@ -13,7 +13,7 @@
 	<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
   <h3>- I have ever used (Novice)</h3>
 	<img src="https://img.shields.io/badge/CLanguage-A8B9CC?style=flat&logo=c&logoColor=white" />
-	<img src="https://img.shields.io/badge/C++-#00599C?style=flat&logo=cplusplus&logoColor=white" />
+	<img src="https://img.shields.io/badge/-#00599C?style=flat&logo=cplusplus&logoColor=white" />
 	<img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=openjdk&logoColor=white" />
 	<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
