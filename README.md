@@ -1,8 +1,11 @@
 <div align="right">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpgisung&count_bg=%23604B04&title_bg=%23181717&icon=github.svg&icon_color=%23FFFFFF&title=JSGit&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpgisung&count_bg=%23BA8E77&title_bg=%238D4801&icon=github.svg&icon_color=%23FFFFFF&title=JohnnyPark&edge_flat=false"/></a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&height=200&section=header&text=Here%20is%20JSGit&fontSize=70&rotate=13&fontAlign=55&fontAlignY=10&theme=gruvbox_light">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Here%20is%20JohnnyPark&theme=gruvbox_light">
+<!--
+<img src="https://capsule-render.vercel.app/api?type=slice&height=200&section=header&text=Here%20is%20JohnnyPark&fontSize=70&rotate=13&fontAlign=62&fontAlignY=27&theme=gruvbox_light">
+-->
 
 <div align="left">
   <h2>Development Platforms & Languages</h2>
