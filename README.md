@@ -10,8 +10,8 @@
 <div align="left">
   <h2>Development Platforms & Languages</h2>
   <h3>- I used to deal with these days</h3>
-	<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" />
-	<img src="https://img.shields.io/badge/UIKit-SwiftUI-000000?style=flat&logo=ios&logoColor=white" />
+	<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=white" />
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
 	<h3>- I had worked with</h3>
 	<img src="https://img.shields.io/badge/Csharp-239120?style=flat&logo=csharp&logoColor=white" />
 	<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
@@ -25,7 +25,8 @@
 	<img src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=html5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
-	<img src="https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
+ 	<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" />
+	<img src="https://img.shields.io/badge/UIKit-SwiftUI-000000?style=flat&logo=ios&logoColor=white" />
  <h3>- Development Environment</h3>
 	<img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
 	<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
