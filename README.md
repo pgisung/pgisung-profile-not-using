@@ -1,8 +1,8 @@
-<!--
+
 <div align="right">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpgisung&count_bg=%23BA8E77&title_bg=%238D4801&icon=github.svg&icon_color=%23FFFFFF&title=JohnnyPark&edge_flat=false"/></a>
 </div>
-
+<!--
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Here%20is%20JohnnyPark&theme=gruvbox_light">
 -->
 <!--
